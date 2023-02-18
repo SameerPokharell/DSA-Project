@@ -1,0 +1,6 @@
+25/08/2022 21:04:47.381 [11112] TRACE: Log opened
+25/08/2022 21:04:47.381 [11112] TRACE: Init started (v. 1.2.0.1)
+25/08/2022 21:04:47.381 [11112] TRACE: Game version (v. 1.0.2189.0)
+25/08/2022 21:04:47.522 [11112] TRACE: Init finished
+25/08/2022 21:04:47.681 [11112] TRACE: [fiDeviceLocal::getFileAttr] 'common.rpf'
+25/08/2022 21:04:47.681 [11112] TRACE: [fiDeviceLocal::openBulk] 'common.rpf', RPF = true

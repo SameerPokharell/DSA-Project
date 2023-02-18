@@ -1,0 +1,8 @@
+// GTA V SCRIPT HOOK (build Dec 18 2020, v1.0.2189.0)
+//     (C) Alexander Blade 2015-2020
+[21:04:46] INIT: Started
+[21:04:46] INIT: Success, game version is VER_1_0_2189_0_NOSTEAM
+[21:04:46] INIT: Registering script 'AddonSpawner.asi' (0x00007FFF7454C2D0)
+[21:04:47] INIT: Registering script 'Menyoo.asi' (0x00007FFF23A89EF0)
+[21:04:47] INIT: Registering additional script thread 'Menyoo.asi' (0x00007FFF23A9A3A0)
+[21:04:47] INIT: Registering script 'ScriptHookVDotNet.asi' (0x00007FFF7E3D1480)
